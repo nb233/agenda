@@ -1,0 +1,33 @@
+.topSection {
+	background-color : #3f3f3f;
+	height :5%;
+}
+
+
+	
+.loginSection li {
+	margin :7;
+	color : yellow;
+	float : right;
+	font-family: fantasy;
+	display: inline;
+
+}
+
+#mainLogo {
+	margin :7;
+	color: white;
+	font-family:fantasy;
+	float: left;
+}
+
+.regBody{
+	background-image: "mainPage.jpg"
+}
+
+
+body {
+	margin : 0;
+}
+
+
